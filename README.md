@@ -22,9 +22,8 @@ Likewise, your SciFi last name will be generated using a similar algorithm:
  
 
 Concatenate the first and last names. The scifi_name() function should return the full name.
-  
 
-   ![image](scifi3.png)
+![image](scifi3.png)
 
 <br></br>
 <br></br>
